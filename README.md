@@ -23,7 +23,7 @@ In this repo I'm going to build a graphical calculator. There is work in progres
 
 
 ## Basic mode 
-![Basic mode interface](basic_mode.png)
+![Basic mode interface](Basic_mode.png)
 ## Scientific mode
 
 ## Graphical mode
