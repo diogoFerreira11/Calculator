@@ -5,25 +5,28 @@ In this repo I'm going to build a graphical calculator. There is work in progres
 ### 1. Basic operations:
   - [x] Arithmetic: Addition (+), Subtraction (-), Multiplication (×), Division (÷)
   - [ ] Exponentiation: Power (x²)
-  - [ ] Roots: Square root (√x), n-th root (<sup>n</sup>√x) 
-### 2. Scientific mode:
+  - [ ] Roots: Square root (√x), n-th root (<sup>n</sup>√x)
+### 2. History
+  - [ ] Save previous result (ANS)
+  - [ ] Save previous expressions and results in a stack
+### 3. Scientific mode:
   - [ ] Exponentiation: Power (x<sup>y</sup>) 
   - [ ] Algebraic functions: Parentheses, negative numbers, scientific notation
   - [ ] Trigonometric Functions
   - [ ] Logarithms and Exponentials
-### 3. Graphical mode:
+### 4. Graphical mode:
   - [ ] Zeros
   - [ ] Intersections between functions
   - [ ] Max. value
-### 4. GUI:
+### 5. GUI:
   - [x] Interface for basic mode
   - [ ] Interface for scientific mode
   - [ ] Interface for graphical mode
   - [ ] History
 
 
-## Basic mode 
+## 🤝 Basic mode 
 ![Basic mode interface](Basic_mode.png)
-## Scientific mode
+## 🧪 Scientific mode 
 
-## Graphical mode
+## 🚀 Graphical mode 
