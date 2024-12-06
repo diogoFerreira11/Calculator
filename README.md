@@ -4,10 +4,10 @@ In this repo I'm going to build a graphical calculator. There is work in progres
 ## To do:
 ### 1. Basic operations:
   - [x] Arithmetic: Addition (+), Subtraction (-), Multiplication (×), Division (÷)
-  - [ ] Exponentiation: Power (x^2)
-  - [ ] Roots: sqrt(x), cbrt(x), x^(1/2), x^(1/3), x^(1/n) 
+  - [ ] Exponentiation: Power (x²)
+  - [ ] Roots: Square root (√x), n-th root (<sup>n</sup>√x) 
 ### 2. Scientific mode:
-  - [ ] Exponentiation: Power (x^y) 
+  - [ ] Exponentiation: Power (x<sup>y</sup>) 
   - [ ] Algebraic functions: Parentheses, negative numbers, scientific notation
   - [ ] Trigonometric Functions
   - [ ] Logarithms and Exponentials
