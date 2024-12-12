@@ -5,9 +5,9 @@ sqrt_symbol = "\u221A"
 
 # Button data: text, value, x, y position
 button_normal = [
-    ("ⁿ√x", "ⁿ√x", 100, 160),  # nth root button
+    ("MOD", "%", 100, 160),  # nth root button
     ("√x", "sqrt", 170, 160),   # square root button
-    ("x²", "x²", 240, 160),     # square button
+    ("x²", "²", 240, 160),     # square button
     ("1", "1", 100, 230),
     ("2", "2", 170, 230),
     ("3", "3", 240, 230),
@@ -24,9 +24,8 @@ button_normal = [
     ("-", "-", 310, 300),
     ("+", "+", 310, 370),
     ("=", "=", 310, 440),
-    ("Ans", "Ans", 10, 370),
+    ("ANS", "ANS", 10, 370),
     ("C", "C", 10, 440),
     ("Scientific", "Scientific", 10, 160),
     ("Graphical", "Graphical", 10, 230),
 ]
-
