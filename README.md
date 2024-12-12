@@ -7,6 +7,7 @@ In this repo I'm going to build a graphical calculator. There is work in progres
   - [x] Exponentiation: Power (x²)
   - [x] Square root (√x)
   - [x] Remainder or signed remainder of a division (MOD)
+  - [ ] Mathematical notation
 ### 2. History
   - [ ] Save previous result (ANS)
   - [ ] Save previous expressions and results in a stack
